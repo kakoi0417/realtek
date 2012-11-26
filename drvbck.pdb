@@ -1,0 +1,13 @@
+[driver backup information]
+driverdesc=Realtek PCIe GBE Family Controller
+infpath=oem31.inf                                                                       
+infsection=RTL8168D.ndi.NT
+MatchingDeviceId=PCI\VEN_10EC&DEV_8168&SUBSYS_75961462&REV_03
+driverversion=7.50.1123.2011
+driverdate=2011-11-23
+providername=Realtek
+class=Network adapters
+filenum=4
+signature=Windows Vista
+needrestore=yes
+backuptime=Sunday, September 16, 2012
